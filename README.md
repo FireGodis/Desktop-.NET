@@ -1,6 +1,7 @@
 # Desktop .NET
 
-Aqui organizo projetos de interface desktop com C# e .NET.
+Aqui organizo exemplos de interface desktop e desenvolvimento .NET no Visual Studio.
 
-## Projeto
+## Projetos
 - [Lista de tarefas com WPF e MVVM](WPF-MVVM/README.md)
+- [Aplicação de console no Visual Studio](Visual-Studio/README.md)
